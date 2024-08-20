@@ -1,4 +1,4 @@
-# **Análisis de Coincidencia en Documentos Educativos utilizando la Taxonomía de Bloom**
+# **EVALUACIÓN CURRICULAR POR COMPETENCIAS**
 
 ## **Propósito del Proyecto**
 Este proyecto tiene como objetivo ayudar a los educadores y administradores a evaluar si los sílabos de los cursos están alineados con los objetivos de aprendizaje deseados, utilizando como referencia la Taxonomía de Bloom. La herramienta facilita el análisis del contenido de los sílabos para determinar si se enfocan en los niveles cognitivos apropiados, ya sea para cursos teóricos, prácticos, o aquellos que requieren un enfoque más profundo en habilidades de creación y evaluación.
